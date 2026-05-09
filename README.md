@@ -21,8 +21,11 @@ Host a camera webserver:
 - https://youtu.be/asP3AOQtrQ8?t=229 Web server
 - 192.168.137.nn/steam
 
+⚠️ **MJPEG is on port 81**
 
-> 🤖 ESP32 side — Switch to RTSP streaming (many libraries available) and use a Godot RTSP plugin if one exists, or forward via go2rtc.
+<img width="488" height="450" alt="image" src="https://github.com/user-attachments/assets/970a81fc-dbbc-47d9-b7f9-249397857445" />
+
+
 
 
 
