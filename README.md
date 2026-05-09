@@ -26,8 +26,11 @@ Host a camera webserver:
 <img width="488" height="450" alt="image" src="https://github.com/user-attachments/assets/970a81fc-dbbc-47d9-b7f9-249397857445" />
 
 
-Nice video on the XIAO
-https://youtu.be/1rD3SNzTJ6o?t=701
+Nice video on the XIAO  
+https://youtu.be/1rD3SNzTJ6o?t=701    
+
+The Swiss guy:    
+https://youtu.be/qNzlytUdB_Q?t=770   
 
 
 
