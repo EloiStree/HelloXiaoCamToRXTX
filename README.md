@@ -12,7 +12,17 @@ So I need to explore the possibility of:
 * testing the possibility of using the SSD1306 and webcam on the same Wi-Fi network
 
 
+Youtube Search:
+- [Cam](https://www.youtube.com/results?search_query=esp32+s3+sense+camera)
 
+
+Host a camera webserver:  
+- https://youtu.be/asP3AOQtrQ8?t=191 Board
+- https://youtu.be/asP3AOQtrQ8?t=229 Web server
+- 192.168.137.nn/steam
+
+
+> 🤖 ESP32 side — Switch to RTSP streaming (many libraries available) and use a Godot RTSP plugin if one exists, or forward via go2rtc.
 
 
 
