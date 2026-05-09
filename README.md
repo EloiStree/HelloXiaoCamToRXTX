@@ -34,6 +34,9 @@ https://youtu.be/qNzlytUdB_Q?t=770
 
 
 
+Godot Package for the XIAOS3:  
+https://github.com/EloiStree/2026_05_09_gdp_esp32s3_webcam    
+
 
 
 
