@@ -38,6 +38,8 @@ Godot Package for the XIAOS3:
 https://github.com/EloiStree/2026_05_09_gdp_esp32s3_webcam    
 
 
+[<img width="697" height="358" alt="image" src="https://github.com/user-attachments/assets/df37e099-8d6b-464a-8b8e-ec5f8dcad9d7" />](https://youtu.be/qNzlytUdB_Q?t=2234)   
+https://youtu.be/qNzlytUdB_Q?t=2234    
 
 
 --------------
